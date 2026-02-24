@@ -1,0 +1,377 @@
+{
+  "uploads": [
+    {
+      "uploadId": "de72c067-60d4-47e9-83e3-7d03d12785f4",
+      "originalName": "movie_dataset.csv",
+      "serverPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771850199424-dbb5393e-7a44-4c24-8968-90c455854aff.csv",
+      "cleanedServerPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771850199424-dbb5393e-7a44-4c24-8968-90c455854aff_cleaned.csv",
+      "cleanedOriginalName": "movie_dataset_cleaned.csv",
+      "mimeType": "text/csv",
+      "size": 17735,
+      "createdAt": "2026-02-23T12:36:40.395Z",
+      "analysisSummary": {
+        "rows": 50,
+        "columns": 25,
+        "cleanedRows": 50
+      }
+    },
+    {
+      "uploadId": "ab1c7038-7a57-42c5-b7b7-f7ffee9a9aa5",
+      "originalName": "movie_dataset.csv",
+      "serverPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771849778743-2645f7ed-d14f-405e-bec3-1c3c46aece80.csv",
+      "cleanedServerPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771849778743-2645f7ed-d14f-405e-bec3-1c3c46aece80_cleaned.csv",
+      "cleanedOriginalName": "movie_dataset_cleaned.csv",
+      "mimeType": "text/csv",
+      "size": 17735,
+      "createdAt": "2026-02-23T12:29:39.690Z",
+      "analysisSummary": {
+        "rows": 50,
+        "columns": 25,
+        "cleanedRows": 50
+      }
+    },
+    {
+      "uploadId": "45a4f669-397a-484d-8fea-92e1e56c9e09",
+      "originalName": "movie_dataset.csv",
+      "serverPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771849747085-284719f6-2a62-4455-ac49-9cf2e222824c.csv",
+      "cleanedServerPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771849747085-284719f6-2a62-4455-ac49-9cf2e222824c_cleaned.csv",
+      "cleanedOriginalName": "movie_dataset_cleaned.csv",
+      "mimeType": "text/csv",
+      "size": 17735,
+      "createdAt": "2026-02-23T12:29:07.997Z",
+      "analysisSummary": {
+        "rows": 50,
+        "columns": 25,
+        "cleanedRows": 50
+      }
+    },
+    {
+      "uploadId": "b3f52607-b789-40a6-8574-e0185cedebfc",
+      "originalName": "movie_dataset.csv",
+      "serverPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771849690380-c68e3eb1-048e-4205-98f7-0d5bc45bb3fb.csv",
+      "cleanedServerPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771849690380-c68e3eb1-048e-4205-98f7-0d5bc45bb3fb_cleaned.csv",
+      "cleanedOriginalName": "movie_dataset_cleaned.csv",
+      "mimeType": "text/csv",
+      "size": 17735,
+      "createdAt": "2026-02-23T12:28:11.208Z",
+      "analysisSummary": {
+        "rows": 50,
+        "columns": 25,
+        "cleanedRows": 50
+      }
+    },
+    {
+      "uploadId": "ec0c1203-96fd-4c75-bd9a-047bea4d678e",
+      "originalName": "movie_dataset.csv",
+      "serverPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771849558960-01d8cb3c-9e2e-4100-a57f-c7eb0910039d.csv",
+      "cleanedServerPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771849558960-01d8cb3c-9e2e-4100-a57f-c7eb0910039d_cleaned.csv",
+      "cleanedOriginalName": "movie_dataset_cleaned.csv",
+      "mimeType": "text/csv",
+      "size": 17735,
+      "createdAt": "2026-02-23T12:25:59.758Z",
+      "analysisSummary": {
+        "rows": 50,
+        "columns": 25,
+        "cleanedRows": 50
+      }
+    },
+    {
+      "uploadId": "e8726c08-e46a-4579-9bc5-f9a3a51f019f",
+      "originalName": "movie_dataset.csv",
+      "serverPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771849358066-8c5ece76-4c0a-4dae-ba4d-65e90e24cb8d.csv",
+      "cleanedServerPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771849358066-8c5ece76-4c0a-4dae-ba4d-65e90e24cb8d_cleaned.csv",
+      "cleanedOriginalName": "movie_dataset_cleaned.csv",
+      "mimeType": "text/csv",
+      "size": 17735,
+      "createdAt": "2026-02-23T12:22:38.811Z",
+      "analysisSummary": {
+        "rows": 50,
+        "columns": 25,
+        "cleanedRows": 50
+      }
+    },
+    {
+      "uploadId": "ec8bdab0-db11-45c2-bf08-b11bda55753f",
+      "originalName": "movie_dataset.csv",
+      "serverPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771849275059-26bed2f3-18f2-4e97-8377-e360b01ea86b.csv",
+      "cleanedServerPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771849275059-26bed2f3-18f2-4e97-8377-e360b01ea86b_cleaned.csv",
+      "cleanedOriginalName": "movie_dataset_cleaned.csv",
+      "mimeType": "text/csv",
+      "size": 17735,
+      "createdAt": "2026-02-23T12:21:16.071Z",
+      "analysisSummary": {
+        "rows": 50,
+        "columns": 25,
+        "cleanedRows": 50
+      }
+    },
+    {
+      "uploadId": "179c50d5-fdc5-41a7-ba92-9ef5f582b885",
+      "originalName": "movie_dataset.csv",
+      "serverPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771849077668-9911f98c-a53f-41e3-8664-97751f74414a.csv",
+      "cleanedServerPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771849077668-9911f98c-a53f-41e3-8664-97751f74414a_cleaned.csv",
+      "cleanedOriginalName": "movie_dataset_cleaned.csv",
+      "mimeType": "text/csv",
+      "size": 17735,
+      "createdAt": "2026-02-23T12:17:58.539Z",
+      "analysisSummary": {
+        "rows": 50,
+        "columns": 25,
+        "cleanedRows": 50
+      }
+    },
+    {
+      "uploadId": "62e77750-9fb0-4150-a29a-8aebee5bb2e1",
+      "originalName": "movie_dataset.csv",
+      "serverPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771848090233-4ea6a1e5-75c3-4025-a559-aab5455cb968.csv",
+      "cleanedServerPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771848090233-4ea6a1e5-75c3-4025-a559-aab5455cb968_cleaned.csv",
+      "cleanedOriginalName": "movie_dataset_cleaned.csv",
+      "mimeType": "text/csv",
+      "size": 17735,
+      "createdAt": "2026-02-23T12:01:31.413Z",
+      "analysisSummary": {
+        "rows": 50,
+        "columns": 25,
+        "cleanedRows": 50
+      }
+    },
+    {
+      "uploadId": "40e8251a-63ae-4a5b-9a84-d406929dfdbb",
+      "originalName": "movie_dataset.csv",
+      "serverPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771847696695-841f68b4-13f5-4078-bca2-eacc991d71ce.csv",
+      "cleanedServerPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771847696695-841f68b4-13f5-4078-bca2-eacc991d71ce_cleaned.csv",
+      "cleanedOriginalName": "movie_dataset_cleaned.csv",
+      "mimeType": "text/csv",
+      "size": 17735,
+      "createdAt": "2026-02-23T11:54:57.493Z",
+      "analysisSummary": {
+        "rows": 50,
+        "columns": 25,
+        "cleanedRows": 50
+      }
+    },
+    {
+      "uploadId": "67f89257-3d82-4ead-baff-620d26eadedb",
+      "originalName": "movie_dataset.csv",
+      "serverPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771847689507-3454db5f-4271-45db-a79d-248197b86409.csv",
+      "cleanedServerPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771847689507-3454db5f-4271-45db-a79d-248197b86409_cleaned.csv",
+      "cleanedOriginalName": "movie_dataset_cleaned.csv",
+      "mimeType": "text/csv",
+      "size": 17735,
+      "createdAt": "2026-02-23T11:54:50.330Z",
+      "analysisSummary": {
+        "rows": 50,
+        "columns": 25,
+        "cleanedRows": 50
+      }
+    },
+    {
+      "uploadId": "02ab9745-a83d-467a-b8b3-665ce0823281",
+      "originalName": "movie_dataset.csv",
+      "serverPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771847663275-a720d058-a0ac-4ec7-a6df-d9f0e63c86bf.csv",
+      "cleanedServerPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771847663275-a720d058-a0ac-4ec7-a6df-d9f0e63c86bf_cleaned.csv",
+      "cleanedOriginalName": "movie_dataset_cleaned.csv",
+      "mimeType": "text/csv",
+      "size": 17735,
+      "createdAt": "2026-02-23T11:54:24.118Z",
+      "analysisSummary": {
+        "rows": 50,
+        "columns": 25,
+        "cleanedRows": 50
+      }
+    },
+    {
+      "uploadId": "e70a2a07-ccab-4db9-ab4a-35ad35b4c792",
+      "originalName": "movie_dataset.csv",
+      "serverPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771847287423-86818feb-61a4-40d3-b692-2ef7276fa713.csv",
+      "cleanedServerPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771847287423-86818feb-61a4-40d3-b692-2ef7276fa713_cleaned.csv",
+      "cleanedOriginalName": "movie_dataset_cleaned.csv",
+      "mimeType": "text/csv",
+      "size": 17735,
+      "createdAt": "2026-02-23T11:48:08.225Z",
+      "analysisSummary": {
+        "rows": 50,
+        "columns": 25,
+        "cleanedRows": 50
+      }
+    },
+    {
+      "uploadId": "b5374ded-6bc3-40cf-87c3-fa0f925fa334",
+      "originalName": "movie_dataset.csv",
+      "serverPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771847020166-372585e9-8d9f-4adf-87ad-03faf9b204a9.csv",
+      "cleanedServerPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771847020166-372585e9-8d9f-4adf-87ad-03faf9b204a9_cleaned.csv",
+      "cleanedOriginalName": "movie_dataset_cleaned.csv",
+      "mimeType": "text/csv",
+      "size": 17735,
+      "createdAt": "2026-02-23T11:43:41.089Z",
+      "analysisSummary": {
+        "rows": 50,
+        "columns": 25,
+        "cleanedRows": 50
+      }
+    },
+    {
+      "uploadId": "97d10c13-c262-4f48-b942-71a1a9eb5f8d",
+      "originalName": "movie_dataset.csv",
+      "serverPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771845179784-a92e88f3-d0a2-4fb0-8703-aa5cf97e3f08.csv",
+      "cleanedServerPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771845179784-a92e88f3-d0a2-4fb0-8703-aa5cf97e3f08_cleaned.csv",
+      "cleanedOriginalName": "movie_dataset_cleaned.csv",
+      "mimeType": "text/csv",
+      "size": 17735,
+      "createdAt": "2026-02-23T11:13:00.602Z",
+      "analysisSummary": {
+        "rows": 50,
+        "columns": 25,
+        "cleanedRows": 50
+      }
+    },
+    {
+      "uploadId": "76cb6d34-e102-4333-8957-4694fd00ebd4",
+      "originalName": "movie_dataset.csv",
+      "serverPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771845016036-5ea7081a-91c8-462b-ab54-ecc19a156460.csv",
+      "cleanedServerPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771845016036-5ea7081a-91c8-462b-ab54-ecc19a156460_cleaned.csv",
+      "cleanedOriginalName": "movie_dataset_cleaned.csv",
+      "mimeType": "text/csv",
+      "size": 17735,
+      "createdAt": "2026-02-23T11:10:16.861Z",
+      "analysisSummary": {
+        "rows": 50,
+        "columns": 25,
+        "cleanedRows": 50
+      }
+    },
+    {
+      "uploadId": "001b0514-de6c-47ba-92fb-f5337244f544",
+      "originalName": "movie_dataset.csv",
+      "serverPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771844645225-37eccb55-7195-43da-930a-a8030609e384.csv",
+      "cleanedServerPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771844645225-37eccb55-7195-43da-930a-a8030609e384_cleaned.csv",
+      "cleanedOriginalName": "movie_dataset_cleaned.csv",
+      "mimeType": "text/csv",
+      "size": 473831,
+      "createdAt": "2026-02-23T11:04:06.242Z",
+      "analysisSummary": {
+        "rows": 1200,
+        "columns": 25,
+        "cleanedRows": 1200
+      }
+    },
+    {
+      "uploadId": "728bb5d6-f467-43a9-9b26-de6ed2076b9b",
+      "originalName": "movie_dataset.csv",
+      "serverPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771843530232-c649b915-229f-46ba-b143-1c09b8867e92.csv",
+      "cleanedServerPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771843530232-c649b915-229f-46ba-b143-1c09b8867e92_cleaned.csv",
+      "cleanedOriginalName": "movie_dataset_cleaned.csv",
+      "mimeType": "text/csv",
+      "size": 473831,
+      "createdAt": "2026-02-23T10:45:30.804Z",
+      "analysisSummary": {
+        "rows": 1200,
+        "columns": 25,
+        "cleanedRows": 1200
+      }
+    },
+    {
+      "uploadId": "f7981587-e7fb-4a98-ad59-be288440a47c",
+      "originalName": "movie_dataset_inr.csv",
+      "serverPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771842959115-5a1b28d2-126d-4fc0-9431-41c0ec62deae.csv",
+      "cleanedServerPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771842959115-5a1b28d2-126d-4fc0-9431-41c0ec62deae_cleaned.csv",
+      "cleanedOriginalName": "movie_dataset_inr_cleaned.csv",
+      "mimeType": "text/csv",
+      "size": 23512215,
+      "createdAt": "2026-02-23T10:36:00.700Z",
+      "analysisSummary": {
+        "rows": 4803,
+        "columns": 26,
+        "cleanedRows": 4803
+      }
+    },
+    {
+      "uploadId": "a7838a7c-ad1c-413e-aaa3-9f3297ec1460",
+      "originalName": "movie_dataset.csv",
+      "serverPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771842797643-aeb3c92b-2169-4f70-8a0a-24c7b89b7b94.csv",
+      "cleanedServerPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771842797643-aeb3c92b-2169-4f70-8a0a-24c7b89b7b94_cleaned.csv",
+      "cleanedOriginalName": "movie_dataset_cleaned.csv",
+      "mimeType": "text/csv",
+      "size": 23432179,
+      "createdAt": "2026-02-23T10:33:19.243Z",
+      "analysisSummary": {
+        "rows": 4803,
+        "columns": 24,
+        "cleanedRows": 4803
+      }
+    },
+    {
+      "uploadId": "b12580e4-3c27-4335-9dfb-7427026e1db6",
+      "originalName": "movie_dataset.csv",
+      "serverPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771842338509-e3b15d33-98a2-491f-8857-796261d1fd59.csv",
+      "cleanedServerPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771842338509-e3b15d33-98a2-491f-8857-796261d1fd59_cleaned.csv",
+      "cleanedOriginalName": "movie_dataset_cleaned.csv",
+      "mimeType": "text/csv",
+      "size": 160183,
+      "createdAt": "2026-02-23T10:25:39.199Z",
+      "analysisSummary": {
+        "rows": 500,
+        "columns": 24,
+        "cleanedRows": 500
+      }
+    },
+    {
+      "uploadId": "7365214e-fcb2-4efc-a3d0-f4717df8e260",
+      "originalName": "movie_dataset.csv",
+      "serverPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771842004446-6aa73513-bbaf-48e2-90f2-00771f7168df.csv",
+      "cleanedServerPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771842004446-6aa73513-bbaf-48e2-90f2-00771f7168df_cleaned.csv",
+      "cleanedOriginalName": "movie_dataset_cleaned.csv",
+      "mimeType": "text/csv",
+      "size": 15128,
+      "createdAt": "2026-02-23T10:20:05.131Z",
+      "analysisSummary": {
+        "rows": 50,
+        "columns": 24,
+        "cleanedRows": 50
+      }
+    },
+    {
+      "uploadId": "436cc05f-f3e4-4d84-bdc5-477bb07f212e",
+      "originalName": "movie_dataset.csv",
+      "serverPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771841852768-8a2eaa98-8006-442f-bbef-353b6f8636c4.csv",
+      "cleanedServerPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771841852768-8a2eaa98-8006-442f-bbef-353b6f8636c4_cleaned.csv",
+      "cleanedOriginalName": "movie_dataset_cleaned.csv",
+      "mimeType": "text/csv",
+      "size": 15128,
+      "createdAt": "2026-02-23T10:17:33.612Z",
+      "analysisSummary": {
+        "rows": 50,
+        "columns": 24,
+        "cleanedRows": 50
+      }
+    },
+    {
+      "uploadId": "98e23832-9e66-40fd-978b-d52085aeac12",
+      "originalName": "movie_dataset.csv",
+      "serverPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771840156870-0e8fc557-e030-4d51-99db-56a6d7cdddf4.csv",
+      "cleanedServerPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771840156870-0e8fc557-e030-4d51-99db-56a6d7cdddf4_cleaned.csv",
+      "cleanedOriginalName": "movie_dataset_cleaned.csv",
+      "mimeType": "text/csv",
+      "size": 81842,
+      "createdAt": "2026-02-23T09:49:17.673Z",
+      "analysisSummary": {
+        "rows": 516,
+        "columns": 24,
+        "cleanedRows": 516
+      }
+    },
+    {
+      "uploadId": "91e10ba0-9fc4-46e9-bc13-7660049c278c",
+      "originalName": "movie_dataset.csv",
+      "serverPath": "D:\\DSBD Mini Project 2\\server\\uploads\\1771839644284-f48f6857-355b-47b5-b0c0-4123ef5adc41.csv",
+      "mimeType": "text/csv",
+      "size": 81842,
+      "createdAt": "2026-02-23T09:40:45.546Z",
+      "analysisSummary": {
+        "rows": 516,
+        "columns": 24,
+        "cleanedRows": 516
+      }
+    }
+  ]
+}

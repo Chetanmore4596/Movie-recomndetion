@@ -131,6 +131,14 @@ Backend API: `http://localhost:5000/api`
 
 ---
 
+---
+
+## 📸 Screenshot
+
+![Application Screenshot](./screenshots/Output.png)
+
+---
+
 ## 🔌 Core API Endpoints
 
 - `GET /api/health`
@@ -152,16 +160,6 @@ Backend API: `http://localhost:5000/api`
 }
 ```
 
----
-
-## 📸 Screenshots
-
-Add your screenshots here after pushing:
-
-- `client/screenshots/home.png`
-- `client/screenshots/recommendations.png`
-
----
 
 ## 🚀 Deployment
 
